@@ -19,7 +19,7 @@ Setting things up
 
    .. code-block:: bash
 
-      $ git remote add upstream https://github.com/python-telegram-bot/ptbcontrib
+      $ git remote add upstream https://github.com/telebirr-telegram-bot-org-pages-dev/ptbcontrib
 
 4. Install dependencies:
 
@@ -188,13 +188,13 @@ This gives us the flexibility to re-order arguments and more importantly
 to add new required arguments. It's also more explicit and easier to read.
 
 .. _`Code of Conduct`: https://www.python.org/psf/codeofconduct/
-.. _`issue tracker`: https://github.com/python-telegram-bot/ptbcontrib/issues
-.. _`Telegram group`: https://telegram.me/pythontelegrambotgroup
+.. _`issue tracker`: https://github.com/telebirr-telegram-bot-org-pages-dev/ptbcontrib/issues
+.. _`Telegram group`: https://t.me/+Hfg0wmxzw_w1NGI0
 .. _`PEP 8 Style Guide`: https://www.python.org/dev/peps/pep-0008/
 .. _`Google Python Style Guide`: http://google.github.io/styleguide/pyguide.html
 .. _`Google Python Style Docstrings`: https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
 .. _`MyPy`: https://mypy.readthedocs.io/en/stable/index.html
 .. _`here`: https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
-.. _`pre-commit config file`: https://github.com/python-telegram-bot/ptbcontrib/blob/main/.pre-commit-config.yaml
+.. _`pre-commit config file`: https://github.com/telebirr-telegram-bot-org-pages-dev/ptbcontrib/blob/main/.pre-commit-config.yaml
 .. _`Black`: https://black.readthedocs.io/en/stable/index.html
-.. _`popular editors`: https://black.readthedocs.io/en/stable/editor_integration.html
+.. _`popular editors`: https://docs.pytest.org/en/7.0.x/reference/plugin_list.html?highlight=project-black%20plugin
