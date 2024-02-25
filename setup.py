@@ -56,11 +56,11 @@ reqs_extra = requirements_extra()
 with codecs.open("README.rst", "r", "utf-8") as fd:
     setup(
         name="ptbcontrib",
-        author_email="devs@python-telegram-bot.org",
+        author_email="mr-ghost-eyu@protonmail.com",
         license="LGPLv3",
-        url="https://python-telegram-bot.org/",
-        keywords="python telegram bot api wrapper contrib",
-        description="Contrib package for the python-telegram-bot library",
+        url="https://telebirr-telegram-bot-org-pages-dev.pages.dev/",
+        keywords="Telebirr telegram bot api wrapper contrib",
+        description="Contrib package for the Telebirr-telegram-bot library",
         long_description=fd.read(),
         packages=packages,
         package_data={"ptbcontrib": ["py.typed"]},
