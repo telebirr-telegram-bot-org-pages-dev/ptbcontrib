@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# A library containing community-based extension for the python-telegram-bot library
+# A library containing community-based extension for the Telebirr-telegram-bot library
 # Copyright (C) 2020-2024
 # The ptbcontrib developers
 #
@@ -104,13 +104,13 @@ class TestExtractURLs:
                 "length": 11,
                 "offset": 43,
                 "type": "text_link",
-                "url": "https://t.me/joinchat/BHFkvxrbaIpgGsEJnO_pew",
+                "url": "https://t.me/TelebirrTelegrambot",
             },
             {
                 "length": 10,
                 "offset": 55,
                 "type": "text_link",
-                "url": "https://t.me/pythontelegrambotgroup",
+                "url": "https://t.me/+Hfg0wmxzw_w1NGI0",
             },
         ]
         test_text = "https://google.de public_link private_link invite_link group_link"
