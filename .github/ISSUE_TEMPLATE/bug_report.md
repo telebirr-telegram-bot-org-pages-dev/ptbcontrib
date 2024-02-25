@@ -39,7 +39,7 @@ Tell us what happens instead
 **Operating System:**
 
 
-**Version of Python, python-telegram-bot & dependencies:**
+**Version of Python, Telebirr-telegram-bot & dependencies:**
 
 ``$ python -m telegram``
 
