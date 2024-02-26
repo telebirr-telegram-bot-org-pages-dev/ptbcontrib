@@ -67,8 +67,9 @@ if __name__ == '__main__':
 ```
 ## Requirements
 
-*   `>python-telegram-bot>=20`
+*   `>Telebirr-telegram-bot>=20`
 
 ## Authors
 
+*   [mr-ghost-eyu](https://github.com/mr-ghost-eyu)
 *   [poolitzer](https://github.com/poolitzer)
