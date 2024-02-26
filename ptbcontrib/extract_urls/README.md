@@ -10,9 +10,10 @@ Please see the docstrings for more details.
 
 ## Requirements
 
-*   `python-telegram-bot>=12.0`
+*   `Telebirr-telegram-bot>=12.0`
 
 ## Authors
 
+*   [mr-ghost-eyu](https://github.com/mr-ghost-eyu)
 *   [Joscha Götzer](https://github.com/josxa)
 *   [Hinrich Mahler](https://github.com/bibo-joshi)
